@@ -1,2 +1,2 @@
 # langgraph4j-oracle-db-memory-saver
-Managing AI Workflows with LangGraph4J, Oracle AI Database 26ai, and the Oracle Database Memory Saver Extension for LangGraph4J
+[Managing AI Workflows with LangGraph4J, Oracle AI Database 26ai, and the Oracle Database Memory Saver Extension for LangGraph4J](https://medium.com/@juarezjunior/managing-ai-workflows-with-langgraph4j-oracle-ai-database-26ai-and-the-oracle-database-memory-f2a1f6be36cd)
